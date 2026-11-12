@@ -1,4 +1,13 @@
-<p align="center">
+Ekran qorayadi.
+KECHIKKAN RAHMAT
+«Onangizning qadriga bugun yeting. Ertaga emas...»
+FILM TUGADI
+🎥 Suratga olish uchun tavsiyalar
+Musiqani sokin, ta'sirli pianino ohangida tanlang.
+Onaning gaplarini samimiy va tabiiy ijro eting.
+Daftardagi yozuv ko‘rsatilganda kamerani sekin yaqinlashtiring.
+Oxirgi jumladan keyin 3 soniya sukut saqlang.
+Film oxirida qora ekran va sarlavhani chiqaring.<p align="center">
   <img src="apps/desktop/src/renderer/public/icons/icon.svg" alt="WeftCut" width="128" height="128" />
 </p>
 
